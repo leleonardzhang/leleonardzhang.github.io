@@ -1,0 +1,13 @@
+.column{
+    flex: 50%;
+    padding: 10px;
+    height: 300px
+}
+
+* {
+    box-sizing: border-box
+}
+
+.row {
+    display: flex
+}
